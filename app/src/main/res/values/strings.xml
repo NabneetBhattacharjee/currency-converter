@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NabneetUtilityApp</string>
+    <string name="time">TIME</string>
+    <string name="click_to_convert">Click to convert</string>
+    <string name="converted_amount">Converted amount</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="from">FROM:</string>
+    <string name="to">TO:</string>
+    <string name="aud">AUD</string>
+    <string name="timezone">TIMEZONE:</string>
+    <string name="temperature">TEMPERATURE:</string>
+    <string name="weather">WEATHER:</string>
+    <string name="select_city">SELECT CITY:</string>
+    <string name="select_currency">Select currency</string>
+    <string name="settings">Settings</string>
+
+    <string-array name="currencies">
+        <item>AUD</item>
+        <item>USD</item>
+        <item>INR</item>
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>CNY</item>
+        <item>THB</item>
+        <item>NZD</item>
+        <item>SGD</item>
+    </string-array>
+    <string-array name="cities">
+        <item>Brisbane</item>
+        <item>Jamshedpur</item>
+        <item>Kolkata</item>
+        <item>Mumbai</item>
+        <item>Singapore</item>
+    </string-array>
+</resources>
